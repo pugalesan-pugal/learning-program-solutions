@@ -10,6 +10,6 @@ public class LoggerTest {
             System.out.println("Both logger1 and logger2 are the same instance.");
         } else {
             System.out.println("Different instances created.");
-        } // Should be true
+        } 
     }
 }
