@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "learning-program-solutions/Week1_DataStructures/Exercise 7 Financial Forecasting/code",
+        "learning-program-solutions/Week1_DataStructures/Exercise 7 Financial Forecasting",
+        "learning-program-solutions/Week1_DataStructures/Exercise 2 E-commerce Platform Search Function/code",
+        "learning-program-solutions/Week1_DataStructures/Exercise 1 Inventory Management System/code",
+        "learning-program-solutions/week5_microservices/eureka-discovery-server/eureka-discovery-server/src/main/java/com/cognizant/eureka_discovery_server"
+    ]
+}
